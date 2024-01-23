@@ -26,6 +26,7 @@ list_of_files =[
     "requirement.txt",
     "setup.py",
     "research/trials.ipynb"
+    "test.py"
 ]
 
 
